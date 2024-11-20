@@ -46,15 +46,9 @@ You can modify the `COMPANY_TICKERS` dictionary in the Python file to add or rem
 
 ```python
 COMPANY_TICKERS = {
-    'Constellation Energy Corp': 'CEG',
-    'Chevron Corporation': 'CVX',
-    'Total Energies': 'TTE',
-    'Exxon Mobil': 'XOM',
+    'Constellation Software ': 'CEG',
     'BP': 'BP',
-    'Royal Dutch Shell': 'SHEL',
-    'ConocoPhillips': 'COP',
     # Add more companies here...
 }
 ```
-![image](https://github.com/user-attachments/assets/dbb609f8-d745-41e0-8d75-c0b372acd14f)
 
